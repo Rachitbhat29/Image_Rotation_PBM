@@ -2,4 +2,6 @@
 
 Usage:
 
-**python rotate_pbm.py filename angle
+```console
+python rotate_pbm.py filename angle
+```
